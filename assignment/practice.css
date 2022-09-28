@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+}
+
+.col-1
+{ flex: 1;
+    background-color: aqua;
+    border: 1px solid black;}
+
+
